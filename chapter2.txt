@@ -1,9 +1,9 @@
-Plain --fixup=<commit> creates a "fixup!" commit which 
+Plain --mixup=<commit> creates a "mixup!" commit which 
 changes the content of <commit> but leaves its log message untouched. 
---fixup=amend:<commit> is similar but creates an "amend!" \
+--mixup=amend:<commit> is similar but creates an "amend!" \
 commit which also replaces the log message of <commit> with the log message of the "amend!" 
-commit. --fixup=reword:<commit> creates an "amend!" commit which replaces the log message of 
+commit. --mixup=reword:<commit> creates an "amend!" commit which replaces the log message of 
 <commit> with its own log message but makes no changes to the content of <commit>.
 commit which also replaces the log message of <commit> with the log message of the "amend!" 
-commit. --fixup=reword:<commit> creates an "amend!" commit which replaces the log message of 
+commit. --mixup=reword:<commit> creates an "amend!" commit which replaces the log message of 
 <commit> with its own log message but makes no changes to the content of <commit>.

@@ -1,14 +1,14 @@
 chapter 1
 
-The commit created by plain --fixup=<commit> has a 
-subject composed of "fixup!" followed by the subject line from <commit>
+The commit created by plain --mixup=<commit> has a 
+subject composed of "mixup!" followed by the subject line from <commit>
 We meet nick, tom, daisy, jordan 
-The commit created by plain --fixup=<commit> has a 
-subject composed of "fixup!" followed by the subject line from <commit>
+The commit created by plain --mixup=<commit> has a 
+subject composed of "mixup!" followed by the subject line from <commit>
 We meet nick, tom, daisy, jordan 
 
 chapter 2
 
 We meet nick, tom, daisy, jordan 
-The commit created by plain --fixup=<commit> has a 
-subject composed of "fixup!" followed by the subject line from <commit>
+The commit created by plain --mixup=<commit> has a 
+subject composed of "mixup!" followed by the subject line from <commit>
