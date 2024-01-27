@@ -1,3 +1,6 @@
+============================
+CHAPTER2
+============================
 chapter1
 Plain --mixup=<commit> creates a "mixup!" commit which 
 changes the content of <commit> but leaves its log message untouched. 

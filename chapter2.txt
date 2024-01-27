@@ -1,3 +1,7 @@
+=====================
+CHAPTER2
+=====================
+
 Plain --mixup=<commit> creates a "mixup!" commit which 
 changes the content of <commit> but leaves its log message untouched. 
 --mixup=amend:<commit> is similar but creates an "amend!" \
